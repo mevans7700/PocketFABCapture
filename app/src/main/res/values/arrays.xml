@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="vortexColors">
+        <item>#EF4056</item>
+        <item>#50bcb6</item>
+        <item>#83EDB8</item>
+        <item>#FCB643</item>
+    </string-array>
+    <string-array name="colors">
+        <item>Red</item>
+        <item>Blue</item>
+        <item>Green</item>
+        <item>Yellow</item>
+    </string-array>
+</resources>

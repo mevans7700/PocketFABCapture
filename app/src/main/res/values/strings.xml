@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">FAB Capture</string>
+
+    <!-- Preferences -->
+    <string name="serviceEnabledKey">serviceEnabledKey</string>
+    <string name="vortexKey">vortexdKey</string>
+    <string name="settings">Settings</string>
+    <string name="title">Beam Service enabled</string>
+    <string name="summary">Allows to enable or disable the beam service.</string>
+
+    <!-- Notification -->
+    <string name="notification_title">FAB Capture</string>
+    <string name="notification_text">FAB capture is on</string>
+</resources>
